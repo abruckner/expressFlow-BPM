@@ -1,0 +1,8 @@
+<module>
+	<inherits name="com.google.gwt.user.User"/>
+	<inherits name="com.google.gwt.user.theme.standard.Standard"/>
+	<inherits name="com.extjs.gxt.ui.GXT" />
+	<source path="client" />
+	<source path="dao" />
+	<entry-point class="com.expressflow.gwt.administration.client.EngineAdministration"/>
+</module>
